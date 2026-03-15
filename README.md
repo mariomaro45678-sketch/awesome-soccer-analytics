@@ -33,6 +33,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Football Whispers](https://www.footballwhispers.com/)
 * [G.C. Analytics](https://www.gcanalytics.net/)
 * [Karun Singh](https://karun.in/blog/)
+* [Match Engine Blog](https://matchengine.pro/blog/) — data-driven football analytics covering xG, PPDA, OPPDA, progressive passes, and league data with live season stats
 * [North Yard Analytics](https://www.northyardanalytics.com/blog/)
 * [OptaPro](https://www.optasportspro.com/news-and-analysis/?_news_category=football)
 * [Proform AFC](https://proformanalytics.wordpress.com/)
